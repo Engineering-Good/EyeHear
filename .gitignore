@@ -1,0 +1,21 @@
+# IDE
+.vim/
+.idea/
+.vscode/
+
+# files
+*.log
+.DS_Store
+
+# Python
+*.py[cod]
+__pycache__/
+.pytest_cache/
+
+# build
+output/
+dist/
+build/
+
+# Custom
+onstartup.py
