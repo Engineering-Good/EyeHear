@@ -8,7 +8,7 @@ A techForGood project to display speech-to-text on a wearable low-cost device.
 
 We are a group of volunteers working with the hard of hearing community in Singapore to develop a wearable device that displays speech as text to facilitate their participation in face to face interactions. 
 
-Currently, the ard-Of-Hearing community uses speech-to-text apps to tell what is being said during a conversation. However, from our discussions with our community partner, it has come to our attention that these conventional methods of communication used by the deaf and hard of hearing pose a limitation where it is inconvenient and inefficient for them to keep looking at an app on their phone during a conversation. They will not be able to maintain eye contact with others during the conversation, thus limiting their ability to engage in face-to-face communication. As face-to-face conversations are part of our daily lives, this limitation proves to be a major problem which we aim to solve.
+Currently, the Hard-Of-Hearing community uses speech-to-text apps to tell what is being said during a conversation. However, from our discussions with our community partner, it has come to our attention that these conventional methods of communication used by the deaf and hard of hearing pose a limitation where it is inconvenient and inefficient for them to keep looking at an app on their phone during a conversation. They will not be able to maintain eye contact with others during the conversation, thus limiting their ability to engage in face-to-face communication. As face-to-face conversations are part of our daily lives, this limitation proves to be a major problem which we aim to solve.
 
 Here's a quick demo of the device:
 
@@ -99,7 +99,7 @@ pip3 install -r requirements.txt
 ```bash
 export GOOGLE_APPLICATION_CREDENTIALS="/home/pi/your_google_cloud_application_credential.json"
 
-git clone https://github.com/salvagegarden/eyeHear.git
+git clone https://github.com/Engineering-Good/eyeHear.git
 cd eyeHear
 python3 eyeHear/main.py
 ```
